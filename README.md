@@ -1,6 +1,6 @@
 # Expected File
 
-mini_serv.c  [mini_serv](https://github.com/myagjz/42-Exam_Rank_06/blob/main/mini_serv/mini_serv.c)
+[mini_serv.c](https://github.com/myagjz/42-Exam_Rank_06/blob/main/mini_serv/mini_serv.c)
 
 # Allowed Functions
 
